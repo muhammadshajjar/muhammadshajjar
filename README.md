@@ -29,6 +29,6 @@
 </div>
 <div>
  <a href = "mailto:muhammadshajjar99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="ttps://www.frontendmentor.io/profile/muhammadshajjar" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Muhammad Shajjar shajjars-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a>
+<a href="https://www.frontendmentor.io/profile/muhammadshajjar" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Muhammad Shajjar -informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a>
 
 </div>
